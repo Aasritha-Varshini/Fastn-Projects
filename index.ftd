@@ -26,7 +26,7 @@ spacing.fixed.px: 50
 padding.px: 20
 
 -- ftd.image:
-src: hyd2.jpg
+src: https://i.pinimg.com/564x/c8/7f/0e/c87f0e599576f304cb9a4f4ca4ab2109.jpg
 width.fixed.px: 300
 height.fixed.px: 300
 border-radius.px: 20
