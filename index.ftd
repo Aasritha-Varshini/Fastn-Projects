@@ -1,7 +1,7 @@
 -- ftd.column:
 width: fill-container
 height: fill-container
-background.solid: #A1FFCE
+background.solid: #f99192
 align-content: center
 
 -- card: **Welcome to Hyderabad**
@@ -19,7 +19,7 @@ body description: Default body
 -- ftd.row:
 width.fixed.px: 650
 height.fixed.px: 350
-background.solid: #FAFFD1
+background.solid: #8ad6cc
 border-width.px: 3
 border-radius.px: 20
 spacing.fixed.px: 50
